@@ -1,0 +1,35 @@
+type,content
+header,Web Scraping Practice
+header,Available Products
+header,Product Table
+header,Watch This Video
+header,Contact Us
+header,Product Information
+header,Featured Products
+paragraph,Welcome to the web scraping task! Use your skills to extract the required data from this page.
+list item,Laptop
+list item,Smartphone
+list item,Tablet
+list item,Smartwatch
+paragraph,Sharp Objects
+paragraph,£47.82
+paragraph,✔ In stock
+paragraph,"In a Dark, Dark Wood"
+paragraph,£19.63
+paragraph,✔ In stock
+paragraph,The Past Never Ends
+paragraph,£56.50
+paragraph,✔ In stock
+paragraph,A Murder in Time
+paragraph,£16.64
+paragraph,Out stock
+paragraph,Wireless Headphones
+paragraph,$49.99
+paragraph,"Available colors: Black, White, Blue"
+paragraph,Smart Speaker
+paragraph,$89.99
+paragraph,"Available colors: Grey, Black"
+paragraph,Smart Watch
+paragraph,$149.99
+paragraph,"Available colors: Black, Silver, Gold"
+paragraph,© 2024 Web Scraping Practice. All Rights Reserved.
